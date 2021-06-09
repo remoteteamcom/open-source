@@ -1,4 +1,4 @@
-# open source libariries we use and [open source projects we support](https://opencollective.com/remoteteamcom)
+# open source libariries we use and [open source projects we support (through Open collective) ](https://opencollective.com/remoteteamcom)
 
 # Remote Team Payment
 
