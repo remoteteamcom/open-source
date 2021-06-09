@@ -1,6 +1,8 @@
-# open-source
+# open source libariries we use and [open source projects we support] (https://opencollective.com/remoteteamcom)
 
 # Remote Team Payment
+
+
 
 | Tool        | Summary                           | LICENSE   | VERSION   |
 | ----------- | --------------------------------- | --------- | --------- |
